@@ -1,5 +1,19 @@
 # Version history
 
+## Version 1.7.3 (2024-04-02)
+
+New features:
+
+- New language supported: German (thanks to Xfox20, upbox-org)
+- New language supported: Vietnamese (thanks to ngocanhtve)
+
+## Version 1.7.2 (2024-03-28)
+
+New features:
+
+- New language supported: Russian (thanks to MZhuvka Skykin)
+- New language supported: Persian (thanks to @AlirezaParsi)
+
 ## Version 1.7.1 (2024-03-19)
 
 New features:
